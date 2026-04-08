@@ -136,5 +136,3 @@ To make your GitHub profile stronger, focus on:
 - Keeping repo names clean and professional
 
 ---
-
-> Building in public, even with student projects, is one of the best ways to show growth. A strong GitHub profile is not about having the most repositories — it is about making your best work easy to understand.
