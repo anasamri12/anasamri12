@@ -94,11 +94,14 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasamri12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
-  <img
-    width="48%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=anasamri12&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
-  />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anasamri12/anasamri12/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anasamri12/anasamri12/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anasamri12/anasamri12/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
