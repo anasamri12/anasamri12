@@ -77,21 +77,13 @@
 
 <p align="center">
   <img
-    height="170"
+    height="180"
     src="https://github-readme-stats.vercel.app/api?username=anasamri12&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
   <img
-    height="170"
-    src="https://streak-stats.demolab.com/?user=anasamri12&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasamri12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=1000"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasamri12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450"
     alt="Top Languages"
   />
 </p>
