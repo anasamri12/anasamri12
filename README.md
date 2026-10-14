@@ -78,7 +78,7 @@
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=anasamri12&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=anasamri12&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
   <img
