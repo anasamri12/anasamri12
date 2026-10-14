@@ -89,6 +89,14 @@
 </p>
 
 <p align="center">
+  <img
+    width="100%"
+    src="https://streak-stats.demolab.com/?user=anasamri12&theme=tokyonight&hide_border=true&card_width=1000"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anasamri12/anasamri12/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anasamri12/anasamri12/output/github-contribution-grid-snake.svg" />
