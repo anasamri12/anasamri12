@@ -77,12 +77,12 @@
 
 <p align="center">
   <img
-    width="48%"
+    height="170"
     src="https://github-readme-stats.vercel.app/api?username=anasamri12&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
   <img
-    width="48%"
+    height="170"
     src="https://streak-stats.demolab.com/?user=anasamri12&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
@@ -90,8 +90,8 @@
 
 <p align="center">
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasamri12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="100%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasamri12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=1000"
     alt="Top Languages"
   />
 </p>
