@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Final-year+MEng+Computer+Science+student+at+UCL;Interested+in+Software+Engineering%2C+ML%2C+LLMs%2C+and+Applied+AI;Building+practical+systems+with+real-world+impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=MEng+Computer+Science+graduate+%40+UCL;Software+Engineering+%7C+ML+%7C+Quant+%7C+Applied+AI;Building+practical+systems+with+real-world+impact" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  Final-year <strong>MEng Computer Science</strong> student at <strong>UCL</strong> with interests in
+  <strong>MEng Computer Science</strong> graduate from <strong>UCL</strong> with interests in
   <strong>software engineering, machine learning, LLM systems, and applied AI</strong>.
 </p>
 
@@ -21,19 +21,19 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year Computer Science student at **University College London (UCL)**
-- 🤖 Interested in **Machine Learning, Software Engineering, LLMs, and AI systems**
-- 🔬 Currently working as an **Undergraduate Researcher** on financial NLP and stock prediction
+- 🎓 **MEng Computer Science** graduate, **University College London (UCL)** — 2026
+- 🔬 Former **Undergraduate Researcher** at UCL CS, working on financial NLP and stock prediction
+- 🤖 Interested in **Software Engineering, Machine Learning, LLMs, and quantitative finance**
 - 🌍 Based in **London, UK**
-- 🚀 Open to **internships, graduate roles, and collaborations**
+- 🚀 Open to **graduate roles** in software engineering, ML engineering, quant development and data
 
 ---
 
-## 🛠️ What I'm Working On
+## 🛠️ Currently
 
-- Researching **financial sentiment analysis** using **FinBERT** and **FinGPT** on Malaysian financial news
-- Building and improving **LLM applications** with retrieval and evaluation pipelines
-- Strengthening my foundations in **backend engineering, system design, and machine learning deployment**
+- Looking for **graduate roles** in London across software engineering, ML and quantitative finance
+- Building more **production-ready AI and backend projects**
+- Sharpening **data structures & algorithms**, **system design**, and **ML deployment**
 
 ---
 
@@ -123,7 +123,7 @@
 ## 💼 Experience
 
 ### Undergraduate Researcher — UCL Department of Computer Science
-**Jul 2025 – Present**
+**Jul 2025 – Jun 2026**
 - Benchmarked **FinBERT** and **FinGPT** on Malaysian financial news for localized sentiment classification
 - Integrated sentiment features with **LSTM/GRU** stock prediction models for KLSE market data
 - Built a **multimodal prediction framework** and curated a localized financial dataset
@@ -137,6 +137,24 @@
 ---
 
 ## 🌟 Featured Projects
+
+### FinBERT vs FinGPT — Malaysian Financial Sentiment for Stock Prediction
+Final-year MEng research project benchmarking financial language models on Malaysian English news to predict **Bursa Malaysia** stock movements.
+
+**Highlights**
+- Compared **FinBERT** and **FinGPT** for localized financial sentiment classification
+- Fed sentiment features into **LSTM / GRU** models alongside KLSE market data
+- Evaluated with **MAE, RMSE, Pearson/Spearman correlation** and **directional accuracy**
+- Curated a localized financial news dataset; trained models on UCL GPUs
+
+**Tech:** `Python` `PyTorch` `Hugging Face Transformers` `Pandas` `NumPy`
+
+🔗 [Repository](https://github.com/anasamri12/finbert-vs-fingpt)
+
+### MH SkyHub — 🏆 Winner, MAG Business Case Challenge (UK Chapter)
+Smart in-flight tablet system concept for **Malaysia Airlines**. I was **Implementation Lead** on the winning team.
+
+🔗 [Live prototype](https://mhskyhub.netlify.app)
 
 ### Production RAG System
 Built a Retrieval-Augmented Generation system using **LangChain**, **ChromaDB**, and the **OpenAI API** for grounded question answering over a document corpus.
@@ -169,44 +187,6 @@ Created an end-to-end machine learning pipeline for predicting diabetic patient 
 - Used **Monte Carlo Cross-Validation** for stability and robustness
 
 **Tech:** `Python` `scikit-learn` `XGBoost` `Pandas` `NumPy`
-
----
-
-## 🎯 Goals for 2026
-
-- Build more production-ready AI and backend projects
-- Write cleaner, more maintainable code
-- Improve system design and software engineering depth
-- Contribute to projects that combine research with real-world deployment
-
----
-
-## 📌 Suggested Pinned Repositories
-
-Pin these first if they are public on your GitHub:
-
-1. **Production RAG System**
-2. **Football Analysis System**
-3. **Hospital Readmission Predictor**
-4. **IFRC Survey Bot**
-
-These give a strong mix of:
-- software engineering
-- machine learning
-- deployment
-- teamwork
-- practical impact
-
----
-
-## ✅ Profile Improvement Checklist
-
-- Keep **4 polished pinned repos** instead of many unfinished ones
-- Write a **clear README** for each project
-- Add **screenshots, architecture diagrams, or demo GIFs**
-- Explain **what problem you solved**, not just the tools used
-- Show **your contribution, decisions, and results**
-- Keep repo names clean and professional
 
 ---
 
