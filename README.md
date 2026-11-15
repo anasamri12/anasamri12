@@ -78,12 +78,12 @@
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=anasamri12&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://raw.githubusercontent.com/anasamri12/anasamri12/output/stats.svg"
     alt="GitHub Stats"
   />
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasamri12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=467"
+    src="https://raw.githubusercontent.com/anasamri12/anasamri12/output/top-langs.svg"
     alt="Top Languages"
   />
 </p>

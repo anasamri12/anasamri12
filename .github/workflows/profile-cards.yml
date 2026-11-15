@@ -1,4 +1,8 @@
-name: Generate snake animation
+name: Generate profile cards
+
+# Builds every self-hosted image used in README.md (snake, stats, top languages)
+# and publishes them together to the `output` branch. They must be built in one
+# job because publishing replaces the whole contents of that branch.
 
 on:
   schedule:
@@ -16,6 +20,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
@@ -23,6 +30,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate stats and top-languages cards
+        run: python3 scripts/generate_cards.py "${{ github.repository_owner }}" dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v4
