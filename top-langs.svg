@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" role="img" aria-label="Most Used Languages">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .value { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .lang  { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; }
+  </style>
+  <rect width="100%" height="100%" rx="4.5" fill="#1a1b27"/>
+  <text x="25" y="35" class="title">Most Used Languages</text>
+  <clipPath id="bar"><rect x="25" y="55" width="417" height="8" rx="5"/></clipPath>
+  <g clip-path="url(#bar)">
+    <rect x="25.00" y="55" width="365.62" height="8" fill="#3572A5"/>
+    <rect x="390.12" y="55" width="30.81" height="8" fill="#f1e05a"/>
+    <rect x="420.43" y="55" width="17.82" height="8" fill="#89e051"/>
+    <rect x="437.75" y="55" width="3.14" height="8" fill="#384d54"/>
+    <rect x="440.39" y="55" width="2.10" height="8" fill="#012456"/>
+    <rect x="441.99" y="55" width="0.51" height="8" fill="#3B2F63"/>
+  </g>
+  <circle cx="30.0" cy="86" r="5" fill="#3572A5"/><text x="40.0" y="90" class="lang">Python 87.56%</text>
+  <circle cx="238.5" cy="86" r="5" fill="#f1e05a"/><text x="248.5" y="90" class="lang">JavaScript 7.27%</text>
+  <circle cx="30.0" cy="111" r="5" fill="#89e051"/><text x="40.0" y="115" class="lang">Shell 4.15%</text>
+  <circle cx="238.5" cy="111" r="5" fill="#384d54"/><text x="248.5" y="115" class="lang">Dockerfile 0.63%</text>
+  <circle cx="30.0" cy="136" r="5" fill="#012456"/><text x="40.0" y="140" class="lang">PowerShell 0.38%</text>
+  <circle cx="238.5" cy="136" r="5" fill="#3B2F63"/><text x="248.5" y="140" class="lang">Procfile 0.00%</text>
+</svg>
